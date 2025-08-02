@@ -1,0 +1,1 @@
+Hier kannst du statische Dateien ablegen (z. B. favicon, Bilder etc.).
